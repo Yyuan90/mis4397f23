@@ -1,0 +1,10 @@
+<b> bold
+<u> underline
+<p> paragraph
+<h1> heading
+<img> image
+<address>
+<area>
+<body>
+<i>
+<div>
